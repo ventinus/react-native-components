@@ -2433,14 +2433,6 @@ react-native-experimental-navigation@0.27.x:
     react "^15.5.4"
     react-native "^0.45.1"
 
-"react-native-image-zoom@https://github.com/ventinus/react-native-image-zoom":
-  version "1.0.0"
-  resolved "https://github.com/ventinus/react-native-image-zoom#9a95061f01cc0dd80e991711ce46501a440e22ca"
-  dependencies:
-    prop-types "^15.5.10"
-    react "^15.5.4"
-    react-native "^0.45.1"
-
 "react-native-modal-datepicker@https://github.com/ventinus/react-native-modal-datepicker":
   version "1.0.0"
   resolved "https://github.com/ventinus/react-native-modal-datepicker#18dcb1baeea0f93d863bbf308b243388f6a87dfe"
@@ -3184,11 +3176,7 @@ watch@~0.10.0:
   version "0.10.0"
   resolved "https://registry.yarnpkg.com/watch/-/watch-0.10.0.tgz#77798b2da0f9910d595f1ace5b0c2258521f21dc"
 
-whatwg-fetch@>=0.10.0:
-  version "2.0.3"
-  resolved "https://registry.yarnpkg.com/whatwg-fetch/-/whatwg-fetch-2.0.3.tgz#9c84ec2dcf68187ff00bc64e1274b442176e1c84"
-
-whatwg-fetch@^1.0.0:
+whatwg-fetch@>=0.10.0, whatwg-fetch@^1.0.0:
   version "1.1.1"
   resolved "https://registry.yarnpkg.com/whatwg-fetch/-/whatwg-fetch-1.1.1.tgz#ac3c9d39f320c6dce5339969d054ef43dd333319"
 
