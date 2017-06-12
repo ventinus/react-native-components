@@ -1,0 +1,21 @@
+{
+  "name": "react-native-components",
+  "version": "1.0.0",
+  "description": "",
+  "module": "index",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ventinus/react-native-components.git"
+  },
+  "author": "ventinus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ventinus/react-native-components/issues"
+  },
+  "homepage": "https://github.com/ventinus/react-native-components#readme",
+  "dependencies": {
+    "react-native-drawer": "https://github.com/ventinus/react-native-drawer",
+    "react-native-image-zoom": "https://github.com/ventinus/react-native-image-zoom",
+    "react-native-modal": "https://github.com/ventinus/react-native-modal"
+  }
+}
