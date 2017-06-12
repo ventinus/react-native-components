@@ -2425,6 +2425,14 @@ react-native-experimental-navigation@0.27.x:
     clamp "^1.0.1"
     fbjs "^0.8.1"
 
+"react-native-external-link@https://github.com/ventinus/react-native-external-link":
+  version "1.0.1"
+  resolved "https://github.com/ventinus/react-native-external-link#075a932c6c7bddfa6d024c841527d3ffeb786289"
+  dependencies:
+    prop-types "^15.5.10"
+    react "^15.5.4"
+    react-native "^0.45.1"
+
 "react-native-image-zoom@https://github.com/ventinus/react-native-image-zoom":
   version "1.0.0"
   resolved "https://github.com/ventinus/react-native-image-zoom#9a95061f01cc0dd80e991711ce46501a440e22ca"
@@ -2432,6 +2440,15 @@ react-native-experimental-navigation@0.27.x:
     prop-types "^15.5.10"
     react "^15.5.4"
     react-native "^0.45.1"
+
+"react-native-modal-datepicker@https://github.com/ventinus/react-native-modal-datepicker":
+  version "1.0.0"
+  resolved "https://github.com/ventinus/react-native-modal-datepicker#18dcb1baeea0f93d863bbf308b243388f6a87dfe"
+  dependencies:
+    prop-types "^15.5.10"
+    react "^15.5.4"
+    react-native "^0.45.1"
+    react-native-modal "https://github.com/ventinus/react-native-modal"
 
 "react-native-modal@https://github.com/ventinus/react-native-modal":
   version "1.0.0"

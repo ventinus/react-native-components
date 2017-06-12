@@ -15,7 +15,9 @@
   "homepage": "https://github.com/ventinus/react-native-components#readme",
   "dependencies": {
     "react-native-drawer": "https://github.com/ventinus/react-native-drawer",
+    "react-native-external-link": "https://github.com/ventinus/react-native-external-link",
     "react-native-image-zoom": "https://github.com/ventinus/react-native-image-zoom",
-    "react-native-modal": "https://github.com/ventinus/react-native-modal"
+    "react-native-modal": "https://github.com/ventinus/react-native-modal",
+    "react-native-modal-datepicker": "https://github.com/ventinus/react-native-modal-datepicker"
   }
 }
